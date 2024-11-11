@@ -47,3 +47,13 @@
 
 </body>
 </html>
+
+=============================================================
+
+git pull origin main
+history > meusComandosReplit.txt
+cat meusComandosReplit.txt
+
+git pull origin main
+history > meusComandosLOCAIS.txt
+cat meusComandosLOCAIS.txt
